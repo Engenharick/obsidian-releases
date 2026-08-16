@@ -46982,5 +46982,12 @@
     "author": "widcardw",
     "description": "Use locally downloaded Iconify icons with custom inline text. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "widcardw/obsidian-wrapper-icon"
+  },
+  {
+    "id": "ingles-mp3",
+    "name": "InglesMP3",
+    "author": "Engenharick",
+    "description": "Right-click any English word or phrase in the editor → 'Create MP3' generates pronunciation audio (edge-tts) and inserts a player below the expression. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "Engenharick/ingles-mp3"
   }
 ]
