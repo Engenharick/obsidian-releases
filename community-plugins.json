@@ -47003,12 +47003,5 @@
     "author": "GUX",
     "description": "把关系图谱渲染成 3D 山峰等高线图：链接越多的文档海拔越高，联系紧密的文档聚成一座山，最高连接数的文档是主峰。 - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "gjckckfc/obsidian-terrain-graph"
-  },
-  {
-    "id": "ingles-mp3",
-    "name": "InglesMP3",
-    "author": "Engenharick",
-    "description": "Right-click any English word or phrase in the editor to generate pronunciation audio (edge-tts) and insert a player below the expression. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "Engenharick/ingles-mp3"
   }
 ]
